@@ -1,4 +1,14 @@
 <center>
+
+[![Bitfox-Coding-Inc](https://img.shields.io/badge/Bitfox_Coding_Inc-grey?labelColor=6600ff&logo=Firefox-Browser&style=bold.svg)](https://img.shields.io/badge/Bitfox_Coding_Inc-grey?labelColor=6600ff&logo=Firefox-Browser&style=bold.svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bitfox-Coding-Inc&color=green&label=Profile%20Views&style=bold)](https://komarev.com/ghpvc/?username=Bitfox-Coding-Inc&color=green&label=Profile%20Views&style=bold)
+[![Followers](https://img.shields.io/github/followers/Bitfox-Coding-Inc?labelColor=blue?color=grey&label=Followers&style=bold)](https://img.shields.io/github/followers/Bitfox-Coding-Inc?labelColor=blue?color=grey&label=Followers&style=bold)
+[![Profile Stars](https://img.shields.io/github/stars/Bitfox-Coding-Inc?label=Profile%20Stars&style=bold&color=cyan)](https://img.shields.io/github/stars/Bitfox-Coding-Inc?label=Profile%20Stars&style=bold&color=cyan)
+
+</center>
+
+
+<center>
 <h2><b>Bitfox Coding Inc.</b></h2><p>
 <a href="https://github.com/Bitfox-Coding-Inc" target="_blank" style="text-align:center;"><img style="height:200px; width:200px; cursor: pointer; margin-top:15px;" src="https://github.com/Bitfox-Coding-Inc/.github/blob/master/Logo/bitfox-logo-removebg-preview.png"></a>
 </a>
