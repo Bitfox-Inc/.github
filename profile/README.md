@@ -33,13 +33,13 @@
 <a href="https://github.com/shreesharma07" target="_blank"><img src="https://github.com/shreesharma07/shreesharma07/blob/pre-prod/Images/shreesharma07-logo-circle.png" style="border-radius: 50%; height:150px; weight:150px; text-align: center; border: solid 1px #555; box-shadow: 10px 10px 5px #fff;" alt="Shree Kumar Sharma"></a>
 </div>
 
----
+<!-- --- -->
 
+<!-- 
 <div style="align-items:center; padding:0px 0px 15px 0px; align-items:center; margin:auto;">
 <h3 align="center">𝐅𝐨𝐫 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐰𝐨𝐫𝐤-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐢𝐧𝐪𝐮𝐢𝐫𝐲, 𝐤𝐢𝐧𝐝𝐥𝐲 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐮𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤𝐬 𝐦𝐞𝐧𝐭𝐢𝐨𝐧𝐞𝐝 𝐛𝐞𝐥𝐨𝐰 :
 <br><br>
 <a href="https://bit.ly/3eOXjRZ" target="_blank"><img style="height:60px; width:60px; cursor: pointer; margin-top:15px;" src="https://bit.ly/3C3ggJL"></a>
 <a href="https://bit.ly/3gvGBI0" target="_blank"><img style="height:60px; width:60px; cursor: pointer; margin-top:15px;" src="https://pngimg.com/uploads/instagram/instagram_PNG10.png"></a>
-</h3>
+</h3> -->
 
----
