@@ -30,7 +30,9 @@
 
 <div align="center" style="align-items:center; margin:auto;">
 <p style="margin-top:5%;">𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐚𝐧𝐝 𝐂𝐄𝐎 𝐨𝐟 𝐁𝐢𝐭𝐟𝐨𝐱 𝐈𝐧𝐜.</p>
-<a href="https://github.com/shreesharma07" target="_blank"><img src="https://github.com/shreesharma07/shreesharma07/blob/pre-prod/Images/shreesharma07-logo-circle.png" style="border-radius: 50%; height:150px; weight:150px; text-align: center; border: solid 1px #555; box-shadow: 10px 10px 5px #fff;" alt="Shree Kumar Sharma"></a>
+<a href="https://github.com/shreesharma07" target="_blank">
+    <img src="https://res.cloudinary.com/dqzyaxxxf/image/upload/v1691850544/qhi7mvxqeaalvyujznz1.png" loading="lazy" alt="Shree Kumar Sharma">
+</a>
 </div>
 
 <!-- --- -->
