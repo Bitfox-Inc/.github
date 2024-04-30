@@ -1,4 +1,4 @@
-<div style="margin:auto; display:block;">
+<div style="margin:auto; display:block;" align="center">
 
 [![Bitfox-Inc](https://img.shields.io/badge/Bitfox_Coding_Inc-grey?labelColor=6600ff&logo=Firefox-Browser&style=bold.svg)](https://img.shields.io/badge/Bitfox_Coding_Inc-grey?labelColor=6600ff&logo=Firefox-Browser&style=bold.svg)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bitfox-Inc&color=green&label=Profile%20Views&style=bold)](https://komarev.com/ghpvc/?username=Bitfox-Inc&color=green&label=Profile%20Views&style=bold)
